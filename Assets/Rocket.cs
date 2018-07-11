@@ -24,7 +24,7 @@ public class Rocket : MonoBehaviour {
 
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            rigidbody.add
+            //rigidbody.add
         }
 
 
